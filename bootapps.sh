@@ -1,4 +1,5 @@
 brew install tmux
+brew install ctags
 brew install rbenv
 brew install ruby-build
 brew install mysql
