@@ -18,6 +18,7 @@ brew cask install hipchat
 brew cask install sequel-pro
 brew cask install iterm2
 brew cask install alfred
+brew cask install spotify
 brew cask install vlc
 brew cask install utorrent
 brew cask install tvshows
