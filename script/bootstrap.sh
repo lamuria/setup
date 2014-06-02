@@ -11,6 +11,7 @@ brew tap homebrew/dupes
 brew install apple-gcc42
 
 brew install caskroom/cask/brew-cask
+brew cask install java
 brew cask install google-chrome
 brew cask install firefox
 brew cask install adium
