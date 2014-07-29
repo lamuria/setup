@@ -6,6 +6,7 @@ brew install mysql
 brew install ag
 brew install sbt
 brew install leiningen
+brew install hub
 
 brew tap homebrew/dupes
 brew install apple-gcc42
