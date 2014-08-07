@@ -25,6 +25,7 @@ brew cask install vlc
 brew cask install utorrent
 brew cask install tvshows
 brew cask install evernote
+brew cask install skype
 
 brew cask install atom
 apm install vim-mode
