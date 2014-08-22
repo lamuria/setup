@@ -7,6 +7,7 @@ brew install ag
 brew install sbt
 brew install leiningen
 brew install hub
+brew install node
 
 brew tap homebrew/dupes
 brew install apple-gcc42
