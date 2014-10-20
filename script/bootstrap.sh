@@ -8,6 +8,7 @@ brew install sbt
 brew install leiningen
 brew install hub
 brew install node
+brew install vim
 
 brew tap homebrew/dupes
 brew install apple-gcc42
