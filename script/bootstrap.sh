@@ -9,6 +9,7 @@ brew install leiningen
 brew install hub
 brew install node
 brew install vim
+brew install --HEAD https://raw.github.com/neovim/neovim/master/neovim.rb
 
 brew tap homebrew/dupes
 brew install apple-gcc42
