@@ -1,8 +1,8 @@
 brew install tmux
+brew install git bash-completion
 brew install ctags
 brew install rbenv
 brew install ruby-build
-brew install mysql
 brew install ag
 brew install sbt
 brew install leiningen
@@ -20,7 +20,6 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install adium
 brew cask install hipchat
-brew cask install sequel-pro
 brew cask install iterm2
 brew cask install alfred
 brew cask install spotify
