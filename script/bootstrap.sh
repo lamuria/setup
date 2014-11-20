@@ -21,6 +21,7 @@ brew cask install firefox
 brew cask install adium
 brew cask install hipchat
 brew cask install iterm2
+brew cask install paw
 brew cask install alfred
 brew cask install spotify
 brew cask install vlc
@@ -29,6 +30,7 @@ brew cask install tvshows
 brew cask install evernote
 brew cask install skype
 brew cask install limechat
+brew cask install gitter
 
 brew cask install atom
 apm install vim-mode
