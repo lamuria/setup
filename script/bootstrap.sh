@@ -18,6 +18,7 @@ brew install caskroom/cask/brew-cask
 brew cask install java
 brew cask install google-chrome
 brew cask install firefox
+brew cask install onepassword
 brew cask install adium
 brew cask install hipchat
 brew cask install iterm2
