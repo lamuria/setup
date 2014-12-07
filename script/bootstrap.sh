@@ -1,3 +1,4 @@
+brew install zsh
 brew install tmux
 brew install git bash-completion
 brew install ctags
