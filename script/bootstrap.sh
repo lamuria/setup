@@ -12,6 +12,7 @@ brew install node
 brew install vim
 brew install --HEAD https://raw.github.com/neovim/neovim/master/neovim.rb
 brew install go
+brew install forego
 
 brew tap homebrew/dupes
 brew install apple-gcc42
