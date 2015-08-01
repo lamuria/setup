@@ -31,7 +31,7 @@ brew cask install adium
 brew cask install hipchat
 brew cask install slack
 brew cask install iterm2
-# brew cask install alfred
+ brew cask install alfred
 # brew cask install flashlight
 brew cask install spotify
 brew cask install vlc
@@ -41,3 +41,4 @@ brew cask install evernote
 brew cask install skype
 brew cask install limechat
 brew cask install gitter
+brew cask install nvalt
