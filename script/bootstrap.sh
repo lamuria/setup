@@ -32,6 +32,7 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install 1password
 brew cask install google-drive
+brew cask install dropbox
 brew cask install hipchat
 brew cask install slack
 brew cask install iterm2
