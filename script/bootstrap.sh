@@ -11,7 +11,8 @@ brew install ctags
 brew install ag
 brew install leiningen
 brew install vim
-brew install --HEAD https://raw.github.com/neovim/neovim/master/neovim.rb
+brew tap neovim/homebrew-neovim
+brew install --HEAD neovim
 brew install autojump
 
 brew tap homebrew/dupes
