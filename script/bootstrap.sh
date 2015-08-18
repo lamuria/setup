@@ -24,6 +24,7 @@ brew install caskroom/cask/brew-cask
 brew cask install virtualbox
 brew install docker
 brew install docker-machine
+brew install docker-swarm
 brew install docker-compose
 
 brew cask install java
