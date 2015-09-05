@@ -14,6 +14,7 @@ brew install vim
 brew tap neovim/homebrew-neovim
 brew install --HEAD neovim
 brew install autojump
+brew install tree
 
 brew tap homebrew/dupes
 brew install apple-gcc42
