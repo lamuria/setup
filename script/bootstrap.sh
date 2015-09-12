@@ -42,10 +42,12 @@ brew cask install utorrent
 brew cask install tvshows
 brew cask install hipchat
 brew cask install slack
+brew cask install screenhero
 brew cask install skype
 brew cask install telegram
 brew cask install limechat
 brew cask install gitter
 brew cask install nvalt
+brew cask install skitch
 brew cask install kindle
 brew cask install send-to-kindle
