@@ -51,3 +51,4 @@ brew cask install nvalt
 brew cask install skitch
 brew cask install kindle
 brew cask install send-to-kindle
+brew cask install rescuetime
