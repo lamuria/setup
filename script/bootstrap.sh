@@ -13,8 +13,9 @@ brew install leiningen
 brew install vim
 brew tap neovim/homebrew-neovim
 brew install --HEAD neovim
-brew install autojump
+brew install fasd
 brew install tree
+brew install markdown
 
 brew tap homebrew/dupes
 brew install apple-gcc42
