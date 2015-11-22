@@ -15,7 +15,10 @@ brew tap neovim/homebrew-neovim
 brew install --HEAD neovim
 brew install fasd
 brew install tree
-brew install markdown
+
+# markdown
+brew install npm
+npm install marked --global
 
 brew tap homebrew/dupes
 brew install apple-gcc42
