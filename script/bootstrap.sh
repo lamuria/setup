@@ -25,6 +25,9 @@ brew install apple-gcc42
 
 brew install caskroom/cask/brew-cask
 
+brew tap railwaycat/emacsmacport
+brew cask install emacs-mac
+
 # docker
 brew cask install virtualbox
 brew install docker
